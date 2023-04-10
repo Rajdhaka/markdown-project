@@ -35,7 +35,7 @@ _`Tic-Tac-Toe` is a game where two players complete a row,a column,or a diagonal
 ## **Developer**
 
 👨‍💻 Rajesh Kumar Dhaka
-* Linkdin: [Rajesh Kumar Dhaka](https://www.linkedin.com/in/rajesh-kumar-dhaka-b671a51aa)
+* Linkedin: [Rajesh Kumar Dhaka](https://www.linkedin.com/in/rajesh-kumar-dhaka-b671a51aa)
 * Github: [Rajdhaka](https://github.com/Rajdhaka)
 
 ## **🤝 Contributing**
