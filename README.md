@@ -1,5 +1,5 @@
 # **TIC-TAC-TOE 🎮** 
-_`Tic-Tac-Toe` is a game where two players complete a row,a column,or a diagonal line with either three O's or three X's drawn in the spaces of grid of nine squares._
+_`Tic-Tac-Toe` is a game where two players complete a row, a column, or a diagonal line with either three O's or three X's drawn in the spaces of grid of nine squares._
 
 ![](https://tinyurl.com/yckb5hh2)
 
